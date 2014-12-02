@@ -128,3 +128,20 @@ export PATH=$PATH:~/Documents/code/android/android-studio/bin
 # Amazon Web Services CLI tools
 export JAVA_HOME=/usr/lib/jvm/java-7-openjdk-amd64/jre
 
+# Set for Zachary Review Rails app
+export OWNER_EMAIL="info.zacharyreview@gmail.com"
+export OWNER_PHONE="555-555-5555"
+export AUTH_FACEBOOK_KEY="467842340019517"
+export AUTH_FACEBOOK_SECRET="de00b6ee1e63e5a951d76f9fa5447448"
+export AUTH_TWITTER_KEY="ziR1OQ5bw1zEaPmcZropYHgvd"
+export AUTH_TWITTER_SECRET="qgEiUtjMzLcAdPUBrouFjdczbJEoTzzMYrITXW0jbZTd4gsoS1"
+export DEVISE_SECRET_KEY='2b9ad790ff93dab61f7a47904f62ce44e3e5ac8a0dd721a87c931d86b5aa3996615f1140d4c524357e024a73c5761161d290c819bd13a0636fc7c859da049874'
+export DEVISE_PEPPER='58cf46b444b5802e6ddd522b0c68acdfb3b8ea41bdef4fc518061df6a25344657b7a7971ab8bc2e7d1f06840adc1fd573c26746ffc81f0abb636da32c5256a9f'
+export SECRET_KEY_BASE='4c1f7987ef0e9818ec8f8a215f25c114bc36524daf41f9b1fc41a328089696c77901184f52c895f60740dba1def393bc92f255e2d0468bb1c8c67c105e634d17'
+export MAIL_HOST="localhost:3000"
+export DOMAIN="localhost:3000"
+export NEW_RELIC_LICENSE_KEY="5fff3d1d411dad2aa9698903c8360a81638c675f"
+export GOOGLE_API_KEY="AIzaSyAirY0f50yROtfp_vG8y5WmKnr51cFDfWQ"
+export GOOGLE_PASSWORD="bumble7#^bee"
+export GOOGLE_USERNAME="info.zacharyreview"
+export REDIS_URL="localhost:6379"
